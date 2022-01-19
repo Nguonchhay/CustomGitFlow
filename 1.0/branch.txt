@@ -1,1 +1,1 @@
-New branch
+New release branch 1.0
